@@ -1,2 +1,2 @@
 # CAFFE-LEO
-Caffe-Leo Frontend using HTML and CSS.
+Caffe-Leo Restaurant UI using HTML and CSS.
